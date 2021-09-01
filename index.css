@@ -103,6 +103,13 @@ nav a {
 }
 
 
+footer .orangea:hover {
+    color: #FF764E;
+    background-color: #F9E7DC;
+    transition: 0.5s;
+}
+
+
 
 
 .bluea {
@@ -116,6 +123,13 @@ nav a {
     transition: 0.5s;
 }
 
+footer .bluea:hover {
+    color: #5ED3EB;
+    background-color: #F9E7DC;
+    transition: 0.5s;
+}
+
+
 .yellowa {
     background-color: #FFCD69;
     margin-right: 10%;
@@ -124,6 +138,12 @@ nav a {
 .yellowa:hover {
     color: #FFCD69;
     background-color: white;
+    transition: 0.5s;
+}
+
+footer .yellowa:hover {
+    color: #FFCD69;
+    background-color: #F9E7DC;
     transition: 0.5s;
 }
 
@@ -191,4 +211,8 @@ footer {
 
 .middle p {
     line-height: 1.2;
+}
+
+span:hover {
+    color: #FF764E;
 }
